@@ -16,7 +16,7 @@ Requiere [Node.js](https://nodejs.org/) v5+
 Instalar dependencias y ejecutar la aplicación
 
 ```sh
-$ cd dillinger
+$ cd Autenticacion-ionic-firebase
 $ npm install
 $ ionic serve -l
 ```
